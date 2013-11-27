@@ -1,5 +1,5 @@
 Assembler report for VGA_Memory_Controller
-Tue Oct 08 11:23:08 2013
+Wed Nov 27 10:32:59 2013
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -10,7 +10,7 @@ Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edit
   2. Assembler Summary
   3. Assembler Settings
   4. Assembler Generated Files
-  5. Assembler Device Options: E:/Parkers Stuff/Code/Verilog/VGA_Memory_Controller/output_files/VGA_Memory_Controller.sof
+  5. Assembler Device Options: C:/Users/MacroFab_00/Documents/GitHub/VGA_Controller/output_files/VGA_Memory_Controller.sof
   6. Assembler Messages
 
 
@@ -37,7 +37,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Tue Oct 08 11:23:08 2013 ;
+; Assembler Status      ; Successful - Wed Nov 27 10:32:59 2013 ;
 ; Revision Name         ; VGA_Memory_Controller                 ;
 ; Top-level Entity Name ; VGA_Memory_Controller                 ;
 ; Family                ; Cyclone III                           ;
@@ -77,24 +77,24 @@ applicable agreement for further details.
 +-----------------------------------------------------------------------------+----------+---------------+
 
 
-+--------------------------------------------------------------------------------------------+
-; Assembler Generated Files                                                                  ;
-+--------------------------------------------------------------------------------------------+
-; File Name                                                                                  ;
-+--------------------------------------------------------------------------------------------+
-; E:/Parkers Stuff/Code/Verilog/VGA_Memory_Controller/output_files/VGA_Memory_Controller.sof ;
-+--------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------+
+; Assembler Generated Files                                                                   ;
++---------------------------------------------------------------------------------------------+
+; File Name                                                                                   ;
++---------------------------------------------------------------------------------------------+
+; C:/Users/MacroFab_00/Documents/GitHub/VGA_Controller/output_files/VGA_Memory_Controller.sof ;
++---------------------------------------------------------------------------------------------+
 
 
-+----------------------------------------------------------------------------------------------------------------------+
-; Assembler Device Options: E:/Parkers Stuff/Code/Verilog/VGA_Memory_Controller/output_files/VGA_Memory_Controller.sof ;
-+----------------+-----------------------------------------------------------------------------------------------------+
-; Option         ; Setting                                                                                             ;
-+----------------+-----------------------------------------------------------------------------------------------------+
-; Device         ; EP3C16F484C6                                                                                        ;
-; JTAG usercode  ; 0x000D08DE                                                                                          ;
-; Checksum       ; 0x000D08DE                                                                                          ;
-+----------------+-----------------------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: C:/Users/MacroFab_00/Documents/GitHub/VGA_Controller/output_files/VGA_Memory_Controller.sof ;
++----------------+------------------------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                                              ;
++----------------+------------------------------------------------------------------------------------------------------+
+; Device         ; EP3C16F484C6                                                                                         ;
+; JTAG usercode  ; 0x000D31F6                                                                                           ;
+; Checksum       ; 0x000D31F6                                                                                           ;
++----------------+------------------------------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -103,14 +103,14 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Assembler
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Tue Oct 08 11:23:06 2013
+    Info: Processing started: Wed Nov 27 10:32:57 2013
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off VGA_Memory_Controller -c VGA_Memory_Controller
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 64-Bit Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 401 megabytes
-    Info: Processing ended: Tue Oct 08 11:23:08 2013
+    Info: Peak virtual memory: 396 megabytes
+    Info: Processing ended: Wed Nov 27 10:32:59 2013
     Info: Elapsed time: 00:00:02
-    Info: Total CPU time (on all processors): 00:00:01
+    Info: Total CPU time (on all processors): 00:00:02
 
 

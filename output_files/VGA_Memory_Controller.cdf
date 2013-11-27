@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP3C16F484) Path("E:/Parkers Stuff/Code/Verilog/VGA_Memory_Controller/output_files/") File("VGA_Memory_Controller.sof") MfrSpec(OpMask(1));
+		Device PartName(EP3C16F484) Path("C:/Users/MacroFab_00/Documents/GitHub/VGA_Controller/output_files/") File("VGA_Memory_Controller.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 
